@@ -1,0 +1,14 @@
+Color Scheme
+------------------
+Black:	666666
+Red:   	FF0000
+Green: 	66CC33
+Yellow:	FFFF66
+Blue: 	0066CC
+Magenta:FF3399
+Cyan:	00FFCC
+White: 	FFFFFF
+
+Total Terminal
+-------------------
+Window Size: 325 Columna; 30 rows
